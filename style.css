@@ -11,5 +11,8 @@ img{
 	height: auto;
 }
 body{
-	background-image: url(water.jpg);
+	background-image: url(night mountains.jpg);
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size: cover;
 }
