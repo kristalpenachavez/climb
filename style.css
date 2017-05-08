@@ -6,3 +6,7 @@ h1{
 	font-size: 48px;
 	color: brown;
 }
+img{
+	width: 50%;
+	height: auto;
+}
