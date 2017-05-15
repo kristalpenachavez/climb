@@ -1,6 +1,6 @@
 h1{
 	font-size: 60px;
-	color: light blue;
+	color: blue;
 }
 #first{
 	font-size: 48px;
@@ -11,7 +11,7 @@ img{
 	height: auto;
 }
 body{
-	background-image: url(FGH.jpg);
+	background-image: url(m.jpg);
 	background-attachment: fixed;
 	background-repeat: none;
 	background-size: cover;
